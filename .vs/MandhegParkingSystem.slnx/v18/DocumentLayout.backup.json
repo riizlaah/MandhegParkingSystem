@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85816D82-05E3-45B6-9E09-B76DDF30CA0D}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{85816D82-05E3-45B6-9E09-B76DDF30CA0D}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85816D82-05E3-45B6-9E09-B76DDF30CA0D}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85816D82-05E3-45B6-9E09-B76DDF30CA0D}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +35,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "MandhegParkingSystem\\Views\\Dashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\Dashboard.xaml.cs",
+              "RelativeToolTip": "MandhegParkingSystem\\Views\\Dashboard.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:54:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "MandhegParkingSystem\\Views\\Dashboard.xaml",
+              "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\Dashboard.xaml",
+              "RelativeToolTip": "MandhegParkingSystem\\Views\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T07:53:16.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MandhegParkingSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "MandhegParkingSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:30:35.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MandhegParkingSystem\\MainWindow.xaml",
@@ -40,7 +90,7 @@
               "RelativeDocumentMoniker": "MandhegParkingSystem\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\MainWindow.xaml.cs",
               "RelativeToolTip": "MandhegParkingSystem\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAWwC8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T07:23:10.572Z",
               "EditorCaption": ""
