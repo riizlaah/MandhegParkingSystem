@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\views\\parkingpayment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\views\\parkingpayment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\views\\parkingpayment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\views\\parkingpayment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\models\\parkingdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\models\\parkingdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|c:\\users\\galih\\repos\\mandhegparkingsystem\\mandhegparkingsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548CC243-5D50-B746-5E35-31BC7DCCBD82}|MandhegParkingSystem\\MandhegParkingSystem.csproj|solutionrelative:mandhegparkingsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,36 +42,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MandhegParkingSystem\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MandhegParkingSystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:32:23.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingPayment.xaml",
+              "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\ParkingPayment.xaml",
+              "RelativeDocumentMoniker": "MandhegParkingSystem\\Views\\ParkingPayment.xaml",
+              "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\ParkingPayment.xaml",
+              "RelativeToolTip": "MandhegParkingSystem\\Views\\ParkingPayment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-29T03:16:57.468Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ParkingPayment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\ParkingPayment.xaml.cs",
+              "RelativeDocumentMoniker": "MandhegParkingSystem\\Views\\ParkingPayment.xaml.cs",
+              "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\ParkingPayment.xaml.cs",
+              "RelativeToolTip": "MandhegParkingSystem\\Views\\ParkingPayment.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:16:43.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingDatum.cs",
+              "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Models\\ParkingDatum.cs",
+              "RelativeDocumentMoniker": "MandhegParkingSystem\\Models\\ParkingDatum.cs",
+              "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Models\\ParkingDatum.cs",
+              "RelativeToolTip": "MandhegParkingSystem\\Models\\ParkingDatum.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:39:41.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Dashboard.xaml.cs",
               "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\Dashboard.xaml.cs",
               "RelativeDocumentMoniker": "MandhegParkingSystem\\Views\\Dashboard.xaml.cs",
               "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\Dashboard.xaml.cs",
               "RelativeToolTip": "MandhegParkingSystem\\Views\\Dashboard.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAD4vyoAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:54:01.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:54:01.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Dashboard.xaml",
               "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\Dashboard.xaml",
               "RelativeDocumentMoniker": "MandhegParkingSystem\\Views\\Dashboard.xaml",
               "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Views\\Dashboard.xaml",
               "RelativeToolTip": "MandhegParkingSystem\\Views\\Dashboard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-28T07:53:16.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:53:16.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "MandhegParkingSystem\\Models\\Employee.cs",
@@ -67,33 +125,18 @@
               "RelativeToolTip": "MandhegParkingSystem\\Models\\Employee.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:30:35.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:30:35.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MandhegParkingSystem\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\MainWindow.xaml",
               "RelativeToolTip": "MandhegParkingSystem\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-28T07:23:11.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MandhegParkingSystem\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\galih\\repos\\MandhegParkingSystem\\MandhegParkingSystem\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MandhegParkingSystem\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAWwC8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:23:10.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:23:11.457Z"
             }
           ]
         }

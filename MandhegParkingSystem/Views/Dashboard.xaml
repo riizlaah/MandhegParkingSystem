@@ -10,9 +10,9 @@
         <TextBlock x:Name="greetLb" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Welcome, ... !" VerticalAlignment="Top" FontSize="18" FontFamily="Segoe UI Semibold"/>
         <TextBlock x:Name="dateTimeLb" HorizontalAlignment="Left" Margin="10,39,0,0" TextWrapping="Wrap" Text="Rabu, 28 Januari 2026, 15:06:00" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe UI Semibold"/>
         <TextBlock HorizontalAlignment="Center" Margin="0,91,0,0" TextWrapping="Wrap" Text="MANDHEG PARKING SYSTEM" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
-        <Button Content="Master Member" HorizontalAlignment="Center" Margin="0,146,0,0" VerticalAlignment="Top" Width="224" Height="52" FontWeight="Bold" FontSize="22"/>
-        <Button Content="Master Vehicle" HorizontalAlignment="Center" Margin="0,220,0,0" VerticalAlignment="Top" Width="224" Height="52" FontWeight="Bold" FontSize="22"/>
-        <Button Content="Parking Payment" HorizontalAlignment="Center" Margin="0,295,0,0" VerticalAlignment="Top" Width="224" Height="52" FontWeight="Bold" FontSize="22"/>
+        <Button Content="Master Member" HorizontalAlignment="Center" Margin="0,146,0,0" VerticalAlignment="Top" Width="224" Height="52" FontWeight="Bold" FontSize="22" Click="OnmasterMember"/>
+        <Button Content="Master Vehicle" HorizontalAlignment="Center" Margin="0,220,0,0" VerticalAlignment="Top" Width="224" Height="52" FontWeight="Bold" FontSize="22" Click="OnMasterVehicle"/>
+        <Button Content="Parking Payment" HorizontalAlignment="Center" Margin="0,295,0,0" VerticalAlignment="Top" Width="224" Height="52" FontWeight="Bold" FontSize="22" Click="OnParkingPayment"/>
         <Button Content="Logout" HorizontalAlignment="Center" Margin="0,369,0,0" VerticalAlignment="Top" Width="224" Height="52" FontWeight="Bold" FontSize="22" Click="Logout"/>
 
     </Grid>

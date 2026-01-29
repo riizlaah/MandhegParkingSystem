@@ -1,6 +1,7 @@
 ﻿using MandhegParkingSystem.Models;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -21,7 +22,7 @@ namespace MandhegParkingSystem.Views
     {
         MandhegParkingSystemContext DBC;
         MainWindow mainWindow;
-        Employee employee;
+        public Employee employee;
         bool _logout = false;
         DispatcherTimer timer;
         public Dashboard(MandhegParkingSystemContext DBC, MainWindow mWindow, Employee employee)
@@ -56,6 +57,27 @@ namespace MandhegParkingSystem.Views
             _logout = true;
             mainWindow.Show();
             Close();
+        }
+
+        private void OnmasterMember(object sender, RoutedEventArgs e)
+        {
+            Hide();
+            MasterMember MasterMember = new MasterMember(DBC, this);
+            MasterMember.Show();
+        }
+
+        private void OnMasterVehicle(object sender, RoutedEventArgs e)
+        {
+            Hide();
+            MasterVehicle masterVehicle = new MasterVehicle(DBC, this);
+            masterVehicle.Show();
+        }
+
+        private void OnParkingPayment(object sender, RoutedEventArgs e)
+        {
+            Hide();
+            ParkingPayment parkingPayment = new ParkingPayment(DBC, this);
+            parkingPayment.Show();
         }
     }
 }
